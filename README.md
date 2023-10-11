@@ -2,7 +2,7 @@
 
           
 
-Bienvenue dans mon espace GitHub! Je suis un étudiant en deuxième année de BUT Informatique à l'Université Sorbonne Paris Nord. Je suis passionné par l'informatique et j'aime découvrir de nouvelles technologies et les mettre en pratique dans mes projets. Je suis toujours en train d'apprendre et de m'améliorer, alors n'hésitez pas à me donner des commentaires et des suggestions sur mes projets.
+Bienvenue dans mon espace GitHub! Je suis un étudiant en troisième année de BUT Informatique à l'Université Sorbonne Paris Nord. Je suis passionné par l'informatique et j'aime découvrir de nouvelles technologies et les mettre en pratique dans mes projets. Je suis toujours en train d'apprendre et de m'améliorer, alors n'hésitez pas à me donner des commentaires et des suggestions sur mes projets.
 
 ---
 
