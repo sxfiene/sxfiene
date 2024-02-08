@@ -7,7 +7,6 @@ Bienvenue dans mon espace GitHub ! Je suis un étudiant en troisième année de 
 ---
 
 ## 🖥️ Technologies
-<div>
 <img align="left" alt="bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="javascript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -23,10 +22,9 @@ Bienvenue dans mon espace GitHub ! Je suis un étudiant en troisième année de 
 <img align="left" alt="sql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="sql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="sql" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-</div>
-<div>
 <br />
-</div>
 
-# ![<sxfiene's Stats>](https://github-readme-stats.vercel.app/api?username=sxfiene&show_icons=true&theme=gruvbox)
+# 
+
+![<sxfiene's Stats>](https://github-readme-stats.vercel.app/api?username=sxfiene&show_icons=true&theme=gruvbox)
           
