@@ -27,6 +27,6 @@ Bienvenue dans mon espace GitHub ! Je suis un étudiant en troisième année de 
 <div>
 <br />
 </div>
-#
-![<sxfiene's Stats>](https://github-readme-stats.vercel.app/api?username=sxfiene&show_icons=true&theme=gruvbox)
+
+# ![<sxfiene's Stats>](https://github-readme-stats.vercel.app/api?username=sxfiene&show_icons=true&theme=gruvbox)
           
