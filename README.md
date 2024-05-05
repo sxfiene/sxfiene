@@ -56,10 +56,17 @@
 
 ## 🧠 Soft-skills 
 
-- 👂 Écoute active
-- 📣 Communication claire
-- 🧩 Capacité à prioriser
-- 🤝 Collaboration et leadership
+<div align="center">
+
+	👂 Écoute active
+	📣 Communication claire
+	🧩 Capacité à prioriser
+	🤝 Collaboration et leadership
+
+</div>
+<div align="center">
 
 ![<sxfiene's Stats>](https://github-readme-stats.vercel.app/api?username=sxfiene&show_icons=true&theme=gruvbox)
-          
+
+</div>
+</div>
