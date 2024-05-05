@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-          
+🎓🖥️ Alternant de 20 ans en troisième année de Bachelor Universitaire Technologique en Informatique à l'IUT de Villetaneuse, près de l'Université Sorbonne Paris Nord, avec plusieurs spécialisations telles que la conception et l’optimisation d’application, l’administration de réseaux informatiques, gestion des données et de l'information, en gestion de projet et en travail d’équipe. 
 
-Bienvenue dans mon espace GitHub ! Je suis un étudiant en troisième année de BUT Informatique à l'Université Sorbonne Paris Nord. Je suis passionné par l'informatique et j'aime découvrir de nouvelles technologies et les mettre en pratique dans mes projets. Je suis toujours en train d'apprendre et de m'améliorer, alors n'hésitez pas à me donner des commentaires et des suggestions sur mes projets.
+💻🚀 Au cours de ma formation, j'ai acquis une solide base en informatique, couvrant divers domaines tels que le développement Web, la programmation à différents niveaux, la programmation orientée objet, la gestion de bases de données, les services réseaux, l'architecture de systèmes et la modélisation. J'ai consolidé ces connaissances à travers des projets pratiques, notamment lors de mon stage chez La Poste en BUT2, où j'ai participé à la migration du site web laposte.fr. Durant cette expérience, j'ai manipulé des données web avec Typescript et des AST. J’ai aussi collaboré en équipe en utilisant le framework SAFe. 
+
+📊🔧 Je maîtrise plusieurs langages, dont JavaScript ainsi que Vue.js, Python, Java, SQL, Bootstrap et j'ai une expérience concrète de leur application dans le cadre de projets universitaires, de mon stage chez La Poste et de mon alternance au sein de la Brigade de sapeurs-pompiers de Paris. 
+
+🌐👨‍💼 Je cherche actuellement une alternance en tant que Product owner pour une durée de 2 ans au sein de la Coding Factory by ESIEE-IT
 
 ---
 
