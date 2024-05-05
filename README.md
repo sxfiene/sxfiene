@@ -68,7 +68,7 @@
 </div>
 <div align="center">
 
-![<sxfiene's Stats>](https://github-readme-stats.vercel.app/api?username=sxfiene&show_icons=true&theme=gruvbox)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sxfiene&theme=github_dark)
+           
 </div>
 </div>
