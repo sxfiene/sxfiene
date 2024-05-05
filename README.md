@@ -6,6 +6,8 @@
 
 📊🔧 Je maîtrise et apprecie plusieurs langages, dont JavaScript ainsi que Vue.js, Python, Java, SQL, Bootstrap et j'ai une expérience concrète de leur application dans le cadre de projets universitaires, de mon stage chez La Poste Groupe et de mon alternance au sein de la Brigade de sapeurs-pompiers de Paris. 
 
+👨‍💻🔬 Pour moi, l'informatique est l'avenir. Elle fera bientôt partie intégrante de nos vies et deviendra essentielle. C'est la raison pour laquelle je veux travailler dans ce domaine. Je veux apporter mes connaissances pour faire avancer la technologie informatique.
+
 🌐👨‍💼 Je souhaite devenir Product Owner et pour cela, je compte trouver une alternance d'une durée de 2 ans pour integrer la Coding Factory by ESIEE-IT.
 
 ---
