@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/sxfiene/sxfiene/assets/90843642/20c6784d-5a81-476e-a00a-dcd9b1d408cb)
 
 🎓🖥️ Je suis alternant de 20 ans en troisième année de Bachelor Universitaire Technologique en Informatique à l'IUT de Villetaneuse, près de l'Université Sorbonne Paris Nord, avec plusieurs spécialisations telles que la conception et l’optimisation d’application, l’administration de réseaux informatiques, gestion des données et de l'information, en gestion de projet et en travail d’équipe. 
 
